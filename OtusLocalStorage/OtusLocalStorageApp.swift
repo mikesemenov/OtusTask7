@@ -1,10 +1,3 @@
-//
-//  OtusLocalStorageApp.swift
-//  OtusLocalStorage
-//
-//  Created by Mikhail Semenov on 21.01.2024.
-//
-
 import SwiftUI
 import SwiftData
 

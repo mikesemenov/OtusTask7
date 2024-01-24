@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A2F0F7DD-C0C0-4213-A4BD-E781A65C0BB6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92DC877D-E7DA-4BBA-AA67-55C2BC7633D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OtusLocalStorage/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "92DC877D-E7DA-4BBA-AA67-55C2BC7633D7 - 69ad69c32847e16a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OtusLocalStorage.Articles) -&gt; () in OtusLocalStorage.NetworkService.parseData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "92DC877D-E7DA-4BBA-AA67-55C2BC7633D7 - 69ad69c32847e10f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OtusLocalStorage.Articles) -&gt; () in OtusLocalStorage.NetworkService.parseData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CFDB70-B0E1-49B4-B7F9-61914C52B161"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OtusLocalStorage/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "45CFDB70-B0E1-49B4-B7F9-61914C52B161 - cd5884038479599"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OtusLocalStorage.NetworkService.parseData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "45CFDB70-B0E1-49B4-B7F9-61914C52B161 - cd5884038479504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OtusLocalStorage.NetworkService.parseData(data: Foundation.Data) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06D6CCCA-8111-43EE-B81C-E4649C209AA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OtusLocalStorage/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B284BC3-D9E7-491C-A5E7-596F48AD9800"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OtusLocalStorage/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1B284BC3-D9E7-491C-A5E7-596F48AD9800 - 84a3b53564089031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OtusLocalStorage.NetworkService.fetchNews(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "1B284BC3-D9E7-491C-A5E7-596F48AD9800 - 84a3b53564089031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OtusLocalStorage.NetworkService.fetchNews(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "1B284BC3-D9E7-491C-A5E7-596F48AD9800 - 84a3b53564089031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OtusLocalStorage.NetworkService.fetchNews(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "1B284BC3-D9E7-491C-A5E7-596F48AD9800 - 84a3b53564089031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OtusLocalStorage.NetworkService.fetchNews(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "OtusLocalStorage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbsemenov/Develop/Otus_iOS/OtusLocalStorage/OtusLocalStorage/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

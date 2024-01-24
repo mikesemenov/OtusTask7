@@ -1,18 +1,15 @@
-//
-//  Item.swift
-//  OtusLocalStorage
-//
-//  Created by Mikhail Semenov on 21.01.2024.
-//
-
 import Foundation
 import SwiftData
 
 @Model
 final class Item {
-    var timestamp: Date
+    let id: UUID
+    let title: String
+    let text: String?
     
-    init(timestamp: Date) {
-        self.timestamp = timestamp
+    init(id: UUID, title: String, text: String? = nil) {
+        self.id = id
+        self.title = title
+        self.text = text
     }
 }
